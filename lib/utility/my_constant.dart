@@ -8,11 +8,12 @@ class MyConstant {
 
 // General
   static String appName = 'Art Connect';
+  static String domain = 'https://c7e0dff1138c.ngrok.io';
 
 // Color
   static Color primart = Color(0xff2d7511);
-  static Color dart =  Color(0xff004800);
-  static Color light =  Color(0xff5fa441);
+  static Color dart = Color(0xff004800);
+  static Color light = Color(0xff5fa441);
 
   // Style
   TextStyle h1Style() => TextStyle(
